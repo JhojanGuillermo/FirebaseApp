@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "690789537003",
+    "firebase_url": "https://fir-app-87c7b.firebaseio.com",
+    "project_id": "fir-app-87c7b",
+    "storage_bucket": "fir-app-87c7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690789537003:android:ae61b7191b091497",
+        "android_client_info": {
+          "package_name": "app.tecsup.com.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690789537003-3a1voc6l7acqqtqdiils0273aendgm2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.tecsup.com.firebaseapp",
+            "certificate_hash": "5e390980ba2022c2781a227f32abaa903bb8fbd6"
+          }
+        },
+        {
+          "client_id": "690789537003-nqh850t2g0gff0ristve8ovtcd0lh8f8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFOYG0rM1c8TfqKH097YuwP0E2d7u1ym0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690789537003-nqh850t2g0gff0ristve8ovtcd0lh8f8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
